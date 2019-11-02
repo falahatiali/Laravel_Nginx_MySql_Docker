@@ -1,0 +1,8 @@
+logs/
+website/vendor
+website/storage/logs
+website/storage/framework/views
+website/storage/framework/cache
+website/storage/framework/sessions
+.env
+database_backup/
